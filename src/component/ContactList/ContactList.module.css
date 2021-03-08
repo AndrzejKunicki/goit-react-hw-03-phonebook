@@ -1,0 +1,21 @@
+.contactList {
+  margin: 15px;
+  padding: 0;
+}
+
+.text {
+  display: inline-block;
+}
+
+.deleteBtn {
+  border-radius: 4px;
+  background-color: transparent;
+  margin-left: 10px;
+}
+
+.deleteBtn:hover {
+  border-color: transparent;
+  box-shadow: 0 0 10px #2784e7;
+  background-color: transparent;
+  border: 2px solid #2196f3;
+}
